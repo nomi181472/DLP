@@ -5,3 +5,5 @@ runs
 Faces
 __pycache__
 *.dat
+*.jpeg
+*.png
